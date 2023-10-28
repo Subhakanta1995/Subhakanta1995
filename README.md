@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subhakanta1995
+- 👋 **Hi, I’m Subhakanta Das**
 - 🔭 I’m currently working At hcltech
 - 🌱 I’m currently learning new skills on enhancing my skills
 - 💞️ I’m looking to Data Analysis 
